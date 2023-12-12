@@ -1,0 +1,2 @@
+# minimum available as of Dec 2023 is 1.37 google-cloud-aiplatform>=1.38
+google-cloud-aiplatform
