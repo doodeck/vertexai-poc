@@ -7,3 +7,7 @@
 * ./google-cloud-sdk/install.sh
 * gcloud auth application-default login
 * gcloud auth application-default set-quota-project proven-cosine-402618
+
+
+After adding Gemini Pro:
+* gcloud config set project proven-cosine-402618
